@@ -1,4 +1,4 @@
-# Capítulo 3 - SQL Para Data Science
+#SQL Para Data Science
 
 SELECT COUNT(*) FROM cap03.TB_DADOS;
 
